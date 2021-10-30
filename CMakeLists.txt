@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Practice_Mids)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Practice_Mids Stack_Problems/reverse_string_using_stack/stack_questions_geeksforgeeks.c Stack_Problems/reverse_string_using_stack/reverse_string.c Stack_Problems/two_stacks_in_one_array/two_stacks_in_one_array.c Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.c "Linked_List Problems.c")

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Practice_Mids"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Practice_Mids">
+				<Option output="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Practice_Mids.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 Practice_Mids"/>
+					<CompileFile command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Practice_Mids/fast">
+				<Option output="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Practice_Mids.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Softwares/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 Practice_Mids/fast"/>
+					<CompileFile command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Softwares/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Stack_Problems/reverse_string_using_stack/reverse_string.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Stack_Problems/reverse_string_using_stack/stack_questions_geeksforgeeks.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Stack_Problems/two_stacks_in_one_array/two_stacks_in_one_array.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

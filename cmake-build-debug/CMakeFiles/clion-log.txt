@@ -1,0 +1,4 @@
+"E:\Softwares\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/cmake-build-debug

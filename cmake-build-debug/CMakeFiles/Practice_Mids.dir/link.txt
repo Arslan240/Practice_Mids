@@ -1,0 +1,3 @@
+"E:\Softwares\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Practice_Mids.dir/objects.a
+E:\Softwares\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\Practice_Mids.dir/objects.a @CMakeFiles\Practice_Mids.dir\objects1.rsp
+E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Practice_Mids.dir/objects.a -Wl,--no-whole-archive -o Practice_Mids.exe -Wl,--out-implib,libPractice_Mids.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Practice_Mids.dir\linklibs.rsp
