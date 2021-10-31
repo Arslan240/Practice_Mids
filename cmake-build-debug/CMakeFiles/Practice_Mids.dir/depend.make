@@ -3,6 +3,9 @@
 
 CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.obj: \
  ../Linked_List\ Problems/queue_using_linked_list.c
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/stack_using_linked_list.c.obj: \
+ ../Linked_List\ Problems/node.h \
+ ../Linked_List\ Problems/stack_using_linked_list.c
 CMakeFiles/Practice_Mids.dir/Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.c.obj: \
  ../Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.c
 CMakeFiles/Practice_Mids.dir/Stack_Problems/reverse_string_using_stack/reverse_string.c.obj: \
