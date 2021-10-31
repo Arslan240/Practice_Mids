@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Practice_Mids.dir/Linked_List_Problems.c.obj"
+  "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.obj"
   "CMakeFiles/Practice_Mids.dir/Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.c.obj"
   "CMakeFiles/Practice_Mids.dir/Stack_Problems/reverse_string_using_stack/reverse_string.c.obj"
   "CMakeFiles/Practice_Mids.dir/Stack_Problems/reverse_string_using_stack/stack_questions_geeksforgeeks.c.obj"

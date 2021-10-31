@@ -128,29 +128,29 @@ Practice_Mids/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/build
 .PHONY : Practice_Mids/fast
 
-Linked_List_Problems.obj: Linked_List_Problems.c.obj
-.PHONY : Linked_List_Problems.obj
+Linked_List_Problems/queue_using_linked_list.obj: Linked_List_Problems/queue_using_linked_list.c.obj
+.PHONY : Linked_List_Problems/queue_using_linked_list.obj
 
 # target to build an object file
-Linked_List_Problems.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems.c.obj
-.PHONY : Linked_List_Problems.c.obj
+Linked_List_Problems/queue_using_linked_list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.obj
+.PHONY : Linked_List_Problems/queue_using_linked_list.c.obj
 
-Linked_List_Problems.i: Linked_List_Problems.c.i
-.PHONY : Linked_List_Problems.i
+Linked_List_Problems/queue_using_linked_list.i: Linked_List_Problems/queue_using_linked_list.c.i
+.PHONY : Linked_List_Problems/queue_using_linked_list.i
 
 # target to preprocess a source file
-Linked_List_Problems.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems.c.i
-.PHONY : Linked_List_Problems.c.i
+Linked_List_Problems/queue_using_linked_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.i
+.PHONY : Linked_List_Problems/queue_using_linked_list.c.i
 
-Linked_List_Problems.s: Linked_List_Problems.c.s
-.PHONY : Linked_List_Problems.s
+Linked_List_Problems/queue_using_linked_list.s: Linked_List_Problems/queue_using_linked_list.c.s
+.PHONY : Linked_List_Problems/queue_using_linked_list.s
 
 # target to generate assembly for a file
-Linked_List_Problems.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems.c.s
-.PHONY : Linked_List_Problems.c.s
+Linked_List_Problems/queue_using_linked_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.s
+.PHONY : Linked_List_Problems/queue_using_linked_list.c.s
 
 Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.obj: Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.c.obj
 .PHONY : Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.obj
@@ -257,9 +257,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Practice_Mids
-	@echo ... Linked_List_Problems.obj
-	@echo ... Linked_List_Problems.i
-	@echo ... Linked_List_Problems.s
+	@echo ... Linked_List_Problems/queue_using_linked_list.obj
+	@echo ... Linked_List_Problems/queue_using_linked_list.i
+	@echo ... Linked_List_Problems/queue_using_linked_list.s
 	@echo ... Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.obj
 	@echo ... Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.i
 	@echo ... Stack_Problems/parenthesis_balance_checker/parenthesis_balance_checker.s
