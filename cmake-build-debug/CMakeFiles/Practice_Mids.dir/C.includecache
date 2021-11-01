@@ -10,9 +10,11 @@ F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 
 stdio.h
 -
 
-F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/stack_using_linked_list.c
+F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/reverse_data_of_linked_list.c
 node.h
 F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/node.h
 stdlib.h
+-
+string.h
 -
 
