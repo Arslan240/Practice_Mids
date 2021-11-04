@@ -128,6 +128,54 @@ Practice_Mids/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/build
 .PHONY : Practice_Mids/fast
 
+Linked_List_Problems/concatenate_two_linked_lists.obj: Linked_List_Problems/concatenate_two_linked_lists.c.obj
+.PHONY : Linked_List_Problems/concatenate_two_linked_lists.obj
+
+# target to build an object file
+Linked_List_Problems/concatenate_two_linked_lists.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c.obj
+.PHONY : Linked_List_Problems/concatenate_two_linked_lists.c.obj
+
+Linked_List_Problems/concatenate_two_linked_lists.i: Linked_List_Problems/concatenate_two_linked_lists.c.i
+.PHONY : Linked_List_Problems/concatenate_two_linked_lists.i
+
+# target to preprocess a source file
+Linked_List_Problems/concatenate_two_linked_lists.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c.i
+.PHONY : Linked_List_Problems/concatenate_two_linked_lists.c.i
+
+Linked_List_Problems/concatenate_two_linked_lists.s: Linked_List_Problems/concatenate_two_linked_lists.c.s
+.PHONY : Linked_List_Problems/concatenate_two_linked_lists.s
+
+# target to generate assembly for a file
+Linked_List_Problems/concatenate_two_linked_lists.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c.s
+.PHONY : Linked_List_Problems/concatenate_two_linked_lists.c.s
+
+Linked_List_Problems/count_even_nodes.obj: Linked_List_Problems/count_even_nodes.c.obj
+.PHONY : Linked_List_Problems/count_even_nodes.obj
+
+# target to build an object file
+Linked_List_Problems/count_even_nodes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj
+.PHONY : Linked_List_Problems/count_even_nodes.c.obj
+
+Linked_List_Problems/count_even_nodes.i: Linked_List_Problems/count_even_nodes.c.i
+.PHONY : Linked_List_Problems/count_even_nodes.i
+
+# target to preprocess a source file
+Linked_List_Problems/count_even_nodes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.i
+.PHONY : Linked_List_Problems/count_even_nodes.c.i
+
+Linked_List_Problems/count_even_nodes.s: Linked_List_Problems/count_even_nodes.c.s
+.PHONY : Linked_List_Problems/count_even_nodes.s
+
+# target to generate assembly for a file
+Linked_List_Problems/count_even_nodes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.s
+.PHONY : Linked_List_Problems/count_even_nodes.c.s
+
 Linked_List_Problems/queue_using_linked_list.obj: Linked_List_Problems/queue_using_linked_list.c.obj
 .PHONY : Linked_List_Problems/queue_using_linked_list.obj
 
@@ -305,6 +353,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Practice_Mids
+	@echo ... Linked_List_Problems/concatenate_two_linked_lists.obj
+	@echo ... Linked_List_Problems/concatenate_two_linked_lists.i
+	@echo ... Linked_List_Problems/concatenate_two_linked_lists.s
+	@echo ... Linked_List_Problems/count_even_nodes.obj
+	@echo ... Linked_List_Problems/count_even_nodes.i
+	@echo ... Linked_List_Problems/count_even_nodes.s
 	@echo ... Linked_List_Problems/queue_using_linked_list.obj
 	@echo ... Linked_List_Problems/queue_using_linked_list.i
 	@echo ... Linked_List_Problems/queue_using_linked_list.s

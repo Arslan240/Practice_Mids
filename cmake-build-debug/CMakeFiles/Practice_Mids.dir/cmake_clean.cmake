@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c.obj"
+  "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj"
   "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.obj"
   "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/reverse_data_of_linked_list.c.obj"
   "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/stack_using_linked_list.c.obj"

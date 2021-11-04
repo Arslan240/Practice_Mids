@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/concatenate_two_linked_lists.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/count_even_nodes.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/node.h">
 			<Option target="Practice_Mids"/>
 		</Unit>
