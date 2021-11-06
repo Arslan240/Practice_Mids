@@ -182,6 +182,45 @@ CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.s"
 	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\count_even_nodes.c" -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\count_even_nodes.c.s
 
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj: CMakeFiles/Practice_Mids.dir/flags.make
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj: ../Linked_List\ Problems/sort_linked_list_data.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\sort_linked_list_data.c.obj -c "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\sort_linked_list_data.c"
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.i"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\sort_linked_list_data.c" > CMakeFiles\Practice_Mids.dir\Linked_List_Problems\sort_linked_list_data.c.i
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.s"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\sort_linked_list_data.c" -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\sort_linked_list_data.c.s
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj: CMakeFiles/Practice_Mids.dir/flags.make
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj: ../Linked_List\ Problems/Add\ two\ polynomials/add_two_polynomials.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\Add_two_polynomials\add_two_polynomials.c.obj -c "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\Add two polynomials\add_two_polynomials.c"
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.i"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\Add two polynomials\add_two_polynomials.c" > CMakeFiles\Practice_Mids.dir\Linked_List_Problems\Add_two_polynomials\add_two_polynomials.c.i
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.s"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\Add two polynomials\add_two_polynomials.c" -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\Add_two_polynomials\add_two_polynomials.c.s
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj: CMakeFiles/Practice_Mids.dir/flags.make
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj: ../Linked_List\ Problems/delete_duplicate_nodes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\delete_duplicate_nodes.c.obj -c "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\delete_duplicate_nodes.c"
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.i"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\delete_duplicate_nodes.c" > CMakeFiles\Practice_Mids.dir\Linked_List_Problems\delete_duplicate_nodes.c.i
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.s"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\delete_duplicate_nodes.c" -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\delete_duplicate_nodes.c.s
+
 # Object files for target Practice_Mids
 Practice_Mids_OBJECTS = \
 "CMakeFiles/Practice_Mids.dir/Stack_Problems/reverse_string_using_stack/stack_questions_geeksforgeeks.c.obj" \
@@ -192,7 +231,10 @@ Practice_Mids_OBJECTS = \
 "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/stack_using_linked_list.c.obj" \
 "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/reverse_data_of_linked_list.c.obj" \
 "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c.obj" \
-"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj"
+"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj" \
+"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj" \
+"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj" \
+"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj"
 
 # External object files for target Practice_Mids
 Practice_Mids_EXTERNAL_OBJECTS =
@@ -206,11 +248,14 @@ Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/stack_using
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/reverse_data_of_linked_list.c.obj
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c.obj
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj
+Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj
+Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj
+Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/build.make
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/linklibs.rsp
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/objects1.rsp
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable Practice_Mids.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking C executable Practice_Mids.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Practice_Mids.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

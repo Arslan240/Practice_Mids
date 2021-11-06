@@ -128,6 +128,30 @@ Practice_Mids/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/build
 .PHONY : Practice_Mids/fast
 
+Linked_List_Problems/Add_two_polynomials/add_two_polynomials.obj: Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj
+.PHONY : Linked_List_Problems/Add_two_polynomials/add_two_polynomials.obj
+
+# target to build an object file
+Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj
+.PHONY : Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj
+
+Linked_List_Problems/Add_two_polynomials/add_two_polynomials.i: Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.i
+.PHONY : Linked_List_Problems/Add_two_polynomials/add_two_polynomials.i
+
+# target to preprocess a source file
+Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.i
+.PHONY : Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.i
+
+Linked_List_Problems/Add_two_polynomials/add_two_polynomials.s: Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.s
+.PHONY : Linked_List_Problems/Add_two_polynomials/add_two_polynomials.s
+
+# target to generate assembly for a file
+Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.s
+.PHONY : Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.s
+
 Linked_List_Problems/concatenate_two_linked_lists.obj: Linked_List_Problems/concatenate_two_linked_lists.c.obj
 .PHONY : Linked_List_Problems/concatenate_two_linked_lists.obj
 
@@ -176,6 +200,30 @@ Linked_List_Problems/count_even_nodes.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.s
 .PHONY : Linked_List_Problems/count_even_nodes.c.s
 
+Linked_List_Problems/delete_duplicate_nodes.obj: Linked_List_Problems/delete_duplicate_nodes.c.obj
+.PHONY : Linked_List_Problems/delete_duplicate_nodes.obj
+
+# target to build an object file
+Linked_List_Problems/delete_duplicate_nodes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj
+.PHONY : Linked_List_Problems/delete_duplicate_nodes.c.obj
+
+Linked_List_Problems/delete_duplicate_nodes.i: Linked_List_Problems/delete_duplicate_nodes.c.i
+.PHONY : Linked_List_Problems/delete_duplicate_nodes.i
+
+# target to preprocess a source file
+Linked_List_Problems/delete_duplicate_nodes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.i
+.PHONY : Linked_List_Problems/delete_duplicate_nodes.c.i
+
+Linked_List_Problems/delete_duplicate_nodes.s: Linked_List_Problems/delete_duplicate_nodes.c.s
+.PHONY : Linked_List_Problems/delete_duplicate_nodes.s
+
+# target to generate assembly for a file
+Linked_List_Problems/delete_duplicate_nodes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.s
+.PHONY : Linked_List_Problems/delete_duplicate_nodes.c.s
+
 Linked_List_Problems/queue_using_linked_list.obj: Linked_List_Problems/queue_using_linked_list.c.obj
 .PHONY : Linked_List_Problems/queue_using_linked_list.obj
 
@@ -223,6 +271,30 @@ Linked_List_Problems/reverse_data_of_linked_list.s: Linked_List_Problems/reverse
 Linked_List_Problems/reverse_data_of_linked_list.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/reverse_data_of_linked_list.c.s
 .PHONY : Linked_List_Problems/reverse_data_of_linked_list.c.s
+
+Linked_List_Problems/sort_linked_list_data.obj: Linked_List_Problems/sort_linked_list_data.c.obj
+.PHONY : Linked_List_Problems/sort_linked_list_data.obj
+
+# target to build an object file
+Linked_List_Problems/sort_linked_list_data.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj
+.PHONY : Linked_List_Problems/sort_linked_list_data.c.obj
+
+Linked_List_Problems/sort_linked_list_data.i: Linked_List_Problems/sort_linked_list_data.c.i
+.PHONY : Linked_List_Problems/sort_linked_list_data.i
+
+# target to preprocess a source file
+Linked_List_Problems/sort_linked_list_data.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.i
+.PHONY : Linked_List_Problems/sort_linked_list_data.c.i
+
+Linked_List_Problems/sort_linked_list_data.s: Linked_List_Problems/sort_linked_list_data.c.s
+.PHONY : Linked_List_Problems/sort_linked_list_data.s
+
+# target to generate assembly for a file
+Linked_List_Problems/sort_linked_list_data.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.s
+.PHONY : Linked_List_Problems/sort_linked_list_data.c.s
 
 Linked_List_Problems/stack_using_linked_list.obj: Linked_List_Problems/stack_using_linked_list.c.obj
 .PHONY : Linked_List_Problems/stack_using_linked_list.obj
@@ -353,18 +425,27 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Practice_Mids
+	@echo ... Linked_List_Problems/Add_two_polynomials/add_two_polynomials.obj
+	@echo ... Linked_List_Problems/Add_two_polynomials/add_two_polynomials.i
+	@echo ... Linked_List_Problems/Add_two_polynomials/add_two_polynomials.s
 	@echo ... Linked_List_Problems/concatenate_two_linked_lists.obj
 	@echo ... Linked_List_Problems/concatenate_two_linked_lists.i
 	@echo ... Linked_List_Problems/concatenate_two_linked_lists.s
 	@echo ... Linked_List_Problems/count_even_nodes.obj
 	@echo ... Linked_List_Problems/count_even_nodes.i
 	@echo ... Linked_List_Problems/count_even_nodes.s
+	@echo ... Linked_List_Problems/delete_duplicate_nodes.obj
+	@echo ... Linked_List_Problems/delete_duplicate_nodes.i
+	@echo ... Linked_List_Problems/delete_duplicate_nodes.s
 	@echo ... Linked_List_Problems/queue_using_linked_list.obj
 	@echo ... Linked_List_Problems/queue_using_linked_list.i
 	@echo ... Linked_List_Problems/queue_using_linked_list.s
 	@echo ... Linked_List_Problems/reverse_data_of_linked_list.obj
 	@echo ... Linked_List_Problems/reverse_data_of_linked_list.i
 	@echo ... Linked_List_Problems/reverse_data_of_linked_list.s
+	@echo ... Linked_List_Problems/sort_linked_list_data.obj
+	@echo ... Linked_List_Problems/sort_linked_list_data.i
+	@echo ... Linked_List_Problems/sort_linked_list_data.s
 	@echo ... Linked_List_Problems/stack_using_linked_list.obj
 	@echo ... Linked_List_Problems/stack_using_linked_list.i
 	@echo ... Linked_List_Problems/stack_using_linked_list.s

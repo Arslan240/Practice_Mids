@@ -80,10 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/Add two polynomials/add_two_polynomials.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/Add two polynomials/poly_node.h">
+			<Option target="Practice_Mids"/>
+		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/concatenate_two_linked_lists.c">
 			<Option target="Practice_Mids"/>
 		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/count_even_nodes.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/delete_duplicate_nodes.c">
 			<Option target="Practice_Mids"/>
 		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/node.h">
@@ -93,6 +102,9 @@
 			<Option target="Practice_Mids"/>
 		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/reverse_data_of_linked_list.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/sort_linked_list_data.c">
 			<Option target="Practice_Mids"/>
 		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/stack_using_linked_list.c">

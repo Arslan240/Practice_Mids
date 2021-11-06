@@ -106,5 +106,8 @@
 //
 //    concatenate_two_linked_lists(&head1,&head2,&resultant_list);
 //    print_linked_list(&resultant_list);
+//    insert_at_end(&head2,'s');
+//    print_linked_list(&resultant_list);
 //
 //}
+//

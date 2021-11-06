@@ -2,7 +2,7 @@
 //#include "node.h"
 //#include <stdlib.h>
 //#define START -20
-//#define NO_CHAR '>'
+//#define NO_INT '>'
 //
 //int stack_length(node** head);
 //void insert_at_start(node** head,char value);
@@ -13,11 +13,11 @@
 //}
 //
 //char pop(node** head){
-//    char popped_char = NO_CHAR;
+//    char popped_char = NO_INT;
 //    node* popped_node = delete_from_start(head);
 //
 //    if(popped_node == NULL){
-//        return popped_char = NO_CHAR;
+//        return popped_char = NO_INT;
 //    }else {
 //        popped_char = popped_node->value; //the char that is popped from the stack.
 //    }

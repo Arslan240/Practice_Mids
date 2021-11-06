@@ -4,7 +4,7 @@
 //
 //#define EMPTY -1
 //#define SIZE 10
-//#define NO_CHAR '<'
+//#define NO_INT '<'
 //
 //int stack_top = EMPTY;
 //char stack[SIZE];
@@ -22,7 +22,7 @@
 //}
 //
 //char pop(){
-//    char popped_char = NO_CHAR;
+//    char popped_char = NO_INT;
 //    if(stack_top <= EMPTY){
 //        printf("Stackunderflow!!!. Push some values before popping again\n");
 //        return popped_char;
@@ -63,7 +63,7 @@
 //
 //char delete_from_start(node** head){
 //    int length = linked_list_length(head);
-//    char popped_char = NO_CHAR;
+//    char popped_char = NO_INT;
 //    if(length == 0){
 //        printf("Linked List is empty. Add some nodes.\n");
 //        return popped_char;
