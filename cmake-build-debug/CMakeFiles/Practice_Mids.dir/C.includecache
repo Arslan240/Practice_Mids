@@ -13,6 +13,8 @@ stdlib.h
 -
 string.h
 -
+stdbool.h
+-
 
 F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/Add two polynomials/poly_node.h
 stdio.h

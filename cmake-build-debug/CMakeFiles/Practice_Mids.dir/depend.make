@@ -8,6 +8,8 @@ CMakeFiles/Practice_Mids.dir/Linked_List_Problems/concatenate_two_linked_lists.c
  ../Linked_List\ Problems/concatenate_two_linked_lists.c
 CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj: \
  ../Linked_List\ Problems/count_even_nodes.c
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj: \
+ ../Linked_List\ Problems/delete_duplicate_nodes.c
 CMakeFiles/Practice_Mids.dir/Linked_List_Problems/queue_using_linked_list.c.obj: \
  ../Linked_List\ Problems/queue_using_linked_list.c
 CMakeFiles/Practice_Mids.dir/Linked_List_Problems/reverse_data_of_linked_list.c.obj: \

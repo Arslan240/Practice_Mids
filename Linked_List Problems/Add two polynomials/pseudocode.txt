@@ -1,0 +1,18 @@
+1- First of all take input from the user.
+2- When adding two polynomials, do following steps :
+    * First iterate over the first polynomial, and check if there are any expressions with similar exponents, if they are
+      then add them and update the linked list.
+        ~ Take outernode, which will select one outer node and then compare it to the all the nodes. If the values are same then we add
+           and store it in another temp value. We then delete the node which was similar to the outer node by using delete_nth_node method,
+           to get the n we can use a counter, and then store the value of temp value in the outer_node.value.
+
+    * Once the first polynomial is completely simplified, then we use another loop, where we take outernode which is iterating over first
+          polynomial, and inside that loop we have another loop which is iterating over second polynomial and comparing outernode to
+          all the nodes of second polynomial. We take a char or int value and use it to add all the values of expressions with similar exponents,
+          once we have completed iteration over the whole second polynomial and have answer in the value variable, we create a new linked
+          list and pass it the values and exponents to create a new node.
+        ~ Then we move outernode to the next node and start the process all over.
+
+    * Once the resultant linked list is calculated. By using my logic, it is not adding non calculated expressions to the resultant linked list.
+      We first iterate over head node and check if there are some exponents which are not in the resultant linked list, then we copy that whole
+      node and add it to the resultant linked list. We do it for both of the first polynomial and second polynomial.
