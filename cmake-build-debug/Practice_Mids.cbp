@@ -95,6 +95,9 @@
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/delete_duplicate_nodes.c">
 			<Option target="Practice_Mids"/>
 		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/double_node.h">
+			<Option target="Practice_Mids"/>
+		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/node.h">
 			<Option target="Practice_Mids"/>
 		</Unit>
@@ -102,6 +105,9 @@
 			<Option target="Practice_Mids"/>
 		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/reverse_data_of_linked_list.c">
+			<Option target="Practice_Mids"/>
+		</Unit>
+		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/shuffle_merge_two_linked_lists.c">
 			<Option target="Practice_Mids"/>
 		</Unit>
 		<Unit filename="F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/sort_linked_list_data.c">

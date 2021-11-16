@@ -7,16 +7,14 @@
 #IncludeRegexTransform: 
 
 F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/Add two polynomials/add_two_polynomials.c
-poly_node.h
-F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/Add two polynomials/poly_node.h
-stdlib.h
--
-string.h
--
-stdbool.h
+
+F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/node.h
+stdio.h
 -
 
-F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/Add two polynomials/poly_node.h
-stdio.h
+F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/shuffle_merge_two_linked_lists.c
+node.h
+F:/OneDrive - Higher Education Commission/COMSATS BSE/Semester 3/DSA {CSC211} - 4/C-Projects/Practice-Mids/Linked_List Problems/node.h
+stdlib.h
 -
 

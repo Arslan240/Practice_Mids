@@ -272,6 +272,30 @@ Linked_List_Problems/reverse_data_of_linked_list.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/reverse_data_of_linked_list.c.s
 .PHONY : Linked_List_Problems/reverse_data_of_linked_list.c.s
 
+Linked_List_Problems/shuffle_merge_two_linked_lists.obj: Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj
+.PHONY : Linked_List_Problems/shuffle_merge_two_linked_lists.obj
+
+# target to build an object file
+Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj
+.PHONY : Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj
+
+Linked_List_Problems/shuffle_merge_two_linked_lists.i: Linked_List_Problems/shuffle_merge_two_linked_lists.c.i
+.PHONY : Linked_List_Problems/shuffle_merge_two_linked_lists.i
+
+# target to preprocess a source file
+Linked_List_Problems/shuffle_merge_two_linked_lists.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.i
+.PHONY : Linked_List_Problems/shuffle_merge_two_linked_lists.c.i
+
+Linked_List_Problems/shuffle_merge_two_linked_lists.s: Linked_List_Problems/shuffle_merge_two_linked_lists.c.s
+.PHONY : Linked_List_Problems/shuffle_merge_two_linked_lists.s
+
+# target to generate assembly for a file
+Linked_List_Problems/shuffle_merge_two_linked_lists.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_Mids.dir\build.make CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.s
+.PHONY : Linked_List_Problems/shuffle_merge_two_linked_lists.c.s
+
 Linked_List_Problems/sort_linked_list_data.obj: Linked_List_Problems/sort_linked_list_data.c.obj
 .PHONY : Linked_List_Problems/sort_linked_list_data.obj
 
@@ -443,6 +467,9 @@ help:
 	@echo ... Linked_List_Problems/reverse_data_of_linked_list.obj
 	@echo ... Linked_List_Problems/reverse_data_of_linked_list.i
 	@echo ... Linked_List_Problems/reverse_data_of_linked_list.s
+	@echo ... Linked_List_Problems/shuffle_merge_two_linked_lists.obj
+	@echo ... Linked_List_Problems/shuffle_merge_two_linked_lists.i
+	@echo ... Linked_List_Problems/shuffle_merge_two_linked_lists.s
 	@echo ... Linked_List_Problems/sort_linked_list_data.obj
 	@echo ... Linked_List_Problems/sort_linked_list_data.i
 	@echo ... Linked_List_Problems/sort_linked_list_data.s

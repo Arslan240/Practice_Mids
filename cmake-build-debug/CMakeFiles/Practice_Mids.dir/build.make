@@ -221,6 +221,19 @@ CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.s: cm
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.s"
 	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\delete_duplicate_nodes.c" -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\delete_duplicate_nodes.c.s
 
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj: CMakeFiles/Practice_Mids.dir/flags.make
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj: ../Linked_List\ Problems/shuffle_merge_two_linked_lists.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\shuffle_merge_two_linked_lists.c.obj -c "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\shuffle_merge_two_linked_lists.c"
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.i"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\shuffle_merge_two_linked_lists.c" > CMakeFiles\Practice_Mids.dir\Linked_List_Problems\shuffle_merge_two_linked_lists.c.i
+
+CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.s"
+	E:\Softwares\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\Linked_List Problems\shuffle_merge_two_linked_lists.c" -o CMakeFiles\Practice_Mids.dir\Linked_List_Problems\shuffle_merge_two_linked_lists.c.s
+
 # Object files for target Practice_Mids
 Practice_Mids_OBJECTS = \
 "CMakeFiles/Practice_Mids.dir/Stack_Problems/reverse_string_using_stack/stack_questions_geeksforgeeks.c.obj" \
@@ -234,7 +247,8 @@ Practice_Mids_OBJECTS = \
 "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_nodes.c.obj" \
 "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj" \
 "CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj" \
-"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj"
+"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj" \
+"CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj"
 
 # External object files for target Practice_Mids
 Practice_Mids_EXTERNAL_OBJECTS =
@@ -251,11 +265,12 @@ Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/count_even_
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/sort_linked_list_data.c.obj
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/Add_two_polynomials/add_two_polynomials.c.obj
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/delete_duplicate_nodes.c.obj
+Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/Linked_List_Problems/shuffle_merge_two_linked_lists.c.obj
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/build.make
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/linklibs.rsp
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/objects1.rsp
 Practice_Mids.exe: CMakeFiles/Practice_Mids.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking C executable Practice_Mids.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\OneDrive - Higher Education Commission\COMSATS BSE\Semester 3\DSA {CSC211} - 4\C-Projects\Practice-Mids\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking C executable Practice_Mids.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Practice_Mids.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
